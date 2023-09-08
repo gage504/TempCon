@@ -21,6 +21,7 @@ public class tempConverter {
     }
 
     //Fahrenheit to Kelvin
+    // Ryan ignore this
     static double f2k(double f) {
         double k = (f - 32) * 5 / 9 + 273.15;
         return k;
